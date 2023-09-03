@@ -1,4 +1,4 @@
-# How to document a model
+# How to document an AI/Machine Learning Model
 
 Created Time: September 3, 2023 9:42 AM
 Last edited Time: September 3, 2023 12:58 PM
