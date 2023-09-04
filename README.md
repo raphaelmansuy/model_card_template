@@ -1,9 +1,10 @@
 # How to document an AI/Machine Learning Model
 
-- Created Time: September 3, 2023 9:42 AM
-- Last edited Time: September 3, 2023 12:58 PM
-- Status: Published
-- Author: Raphaël MANSUY
+
+| Author         | Created    | Updated    | Status    |
+| -------------- | ---------- | ---------- | --------- |
+| Raphaël MANSUY | 03/09/2023 | 03/09/2023 | Published |
+
 
 ## Improving Transparency in AI through Model Cards
 
